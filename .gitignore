@@ -112,3 +112,8 @@ matlab/+caffe/+test/
 packages
 *.db
 *.opendb
+
+#mtcnn vc files
+Build/*
+windows/thirdparty/*
+*.dll
